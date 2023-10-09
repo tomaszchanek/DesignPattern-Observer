@@ -4,7 +4,7 @@
 
 Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 
 ## Example
 ### Spamming device
@@ -12,7 +12,7 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 The below schema refers to DesignPatternObserverExample.java
 Here we register (or subscribe) event listeners and EventManager when proper circumstances appear sends relevant information to all subscribers.
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ## Other
 
